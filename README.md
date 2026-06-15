@@ -2,9 +2,9 @@
 
 # Carson Scott
 
-### Full-Stack Developer · Founder of Orbit Creative Solutions
+### Founder of Orbit Creative
 
-Building polished web platforms, real-time tooling, and products people actually use.
+I build and ship websites, web apps, and online tools that people actually use.
 
 ![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Freelance%20%26%20Full--time-2ea44f?style=for-the-badge)
 [![Email](https://img.shields.io/badge/Email-carson@carsonscott.tech-0a66c2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:carson@carsonscott.tech)
@@ -15,14 +15,16 @@ Building polished web platforms, real-time tooling, and products people actually
 
 ### 👋 About
 
-I'm a full-stack developer who likes to ship. I run **Orbit Creative**, a small studio building fast,
-modern sites for real clients — and I spend the rest of my time on my own products. I care about clean,
-maintainable code and interfaces that feel effortless, whether that's a marketing site, a community
-platform, or a real-time backend service.
+I'm the founder of **Orbit Creative**, a small studio where I turn ideas into live products —
+from marketing sites and community platforms to internal tools and automations. I run the whole
+process: scoping what to build, designing how it should look and feel, and getting it shipped.
+I care about products that look sharp, work fast, and actually get used.
 
 ---
 
-### 🧰 Tech Stack
+### 🧰 Built With
+
+The tech my projects run on:
 
 **Languages**
 
@@ -49,24 +51,24 @@ platform, or a real-time backend service.
 
 ### 💡 What I can help with
 
-- 🖥️ &nbsp;**Full-stack web apps** — React / Next.js front ends backed by Node.js & REST APIs
-- 🎨 &nbsp;**Marketing & business sites** — fast, responsive, conversion-focused, easy to maintain
-- 🤖 &nbsp;**Automation, bots & real-time tooling** — Python services, Discord integrations, alerting
-- 🧩 &nbsp;**Platform & product builds** — from idea to shipped, with clean architecture along the way
+- 🖥️ &nbsp;**Web apps & platforms** — modern, responsive products built on React / Next.js
+- 🎨 &nbsp;**Marketing & business sites** — fast, clean, conversion-focused, easy to maintain
+- 🤖 &nbsp;**Automation & online tools** — bots, integrations, and real-time alerting
+- 🚀 &nbsp;**Idea to launch** — I take a concept and turn it into a shipped, working product
 
 ---
 
 ### 🚀 Projects
 
-**🌐 Orbit Creative** — A web development studio shipping fast, modern, conversion-focused sites for real clients across outdoor recreation, trades, and small brands.
+**🌐 Orbit Creative** — A web studio shipping fast, modern, conversion-focused sites for real clients across outdoor recreation, trades, and small brands.
 
 **🎮 Rivals Elite** — A web platform for the *Marvel Rivals* community: connect with coaches, find teammates, and level up your game.
 
-**🛡️ RivalsWatch** — An autonomous Python service that detects Twitch view-botting and delivers real-time triage alerts to Discord. An integrity & anti-abuse tool.
+**🛡️ RivalsWatch** — A service that detects Twitch view-botting and delivers real-time triage alerts to Discord. An integrity & anti-abuse tool.
 
-**📋 Job Trail** *(collaboration)* — A TypeScript application that automates the job-application process end to end, from discovery through tracking.
+**📋 Job Trail** *(collaboration)* — An application that automates the job-application process end to end, from discovery through tracking.
 
-> Most of my work lives in private client and product repos — happy to walk through code or share a portfolio on request.
+> Most of my work lives in private client and product repos — happy to share a portfolio or walk through a project on request.
 
 ---
 
