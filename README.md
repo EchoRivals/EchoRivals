@@ -2,7 +2,7 @@
 
 # Carson Scott
 
-### Full-Stack Developer · Founder of Orbit Creative
+### Full-Stack Developer · Founder of Orbit Creative Solutions
 
 Building polished web platforms, real-time tooling, and products people actually use.
 
