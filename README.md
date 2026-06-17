@@ -71,3 +71,4 @@ Most of my work lives in private client and product repos — happy to share a p
 - **carson@carsonscott.tech**
 - Available for freelance and full-time work
 
+
